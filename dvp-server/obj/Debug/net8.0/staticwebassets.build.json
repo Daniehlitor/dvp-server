@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BRBZfFaYFTkumzcSdQzEUcEBd4TyGCoaJv99ADlYIGs=",
+  "Source": "dvp-server",
+  "BasePath": "_content/dvp-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

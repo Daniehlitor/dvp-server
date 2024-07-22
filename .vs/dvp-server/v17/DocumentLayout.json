@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Proyectos\\prueba-doublevpartners\\dvp-server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73152D1D-DE0B-434A-9C2E-7E53B1D6F38B}|dvp-server\\dvp-server.csproj|e:\\proyectos\\prueba-doublevpartners\\dvp-server\\dvp-server\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73152D1D-DE0B-434A-9C2E-7E53B1D6F38B}|dvp-server\\dvp-server.csproj|solutionrelative:dvp-server\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73152D1D-DE0B-434A-9C2E-7E53B1D6F38B}|dvp-server\\dvp-server.csproj|e:\\proyectos\\prueba-doublevpartners\\dvp-server\\dvp-server\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73152D1D-DE0B-434A-9C2E-7E53B1D6F38B}|dvp-server\\dvp-server.csproj|solutionrelative:dvp-server\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73152D1D-DE0B-434A-9C2E-7E53B1D6F38B}|dvp-server\\dvp-server.csproj|e:\\proyectos\\prueba-doublevpartners\\dvp-server\\dvp-server\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73152D1D-DE0B-434A-9C2E-7E53B1D6F38B}|dvp-server\\dvp-server.csproj|solutionrelative:dvp-server\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73152D1D-DE0B-434A-9C2E-7E53B1D6F38B}|dvp-server\\dvp-server.csproj|e:\\proyectos\\prueba-doublevpartners\\dvp-server\\dvp-server\\models\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73152D1D-DE0B-434A-9C2E-7E53B1D6F38B}|dvp-server\\dvp-server.csproj|solutionrelative:dvp-server\\models\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginInfo.cs",
+              "DocumentMoniker": "E:\\Proyectos\\prueba-doublevpartners\\dvp-server\\dvp-server\\Models\\LoginInfo.cs",
+              "RelativeDocumentMoniker": "dvp-server\\Models\\LoginInfo.cs",
+              "ToolTip": "E:\\Proyectos\\prueba-doublevpartners\\dvp-server\\dvp-server\\Models\\LoginInfo.cs",
+              "RelativeToolTip": "dvp-server\\Models\\LoginInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T23:22:01.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "E:\\Proyectos\\prueba-doublevpartners\\dvp-server\\dvp-server\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "dvp-server\\Models\\Persona.cs",
+              "ToolTip": "E:\\Proyectos\\prueba-doublevpartners\\dvp-server\\dvp-server\\Models\\Persona.cs",
+              "RelativeToolTip": "dvp-server\\Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:36:11.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "E:\\Proyectos\\prueba-doublevpartners\\dvp-server\\dvp-server\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "dvp-server\\Models\\Usuario.cs",
+              "ToolTip": "E:\\Proyectos\\prueba-doublevpartners\\dvp-server\\dvp-server\\Models\\Usuario.cs",
+              "RelativeToolTip": "dvp-server\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T20:23:33.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "E:\\Proyectos\\prueba-doublevpartners\\dvp-server\\dvp-server\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "dvp-server\\Controllers\\PersonasController.cs",
+              "ToolTip": "E:\\Proyectos\\prueba-doublevpartners\\dvp-server\\dvp-server\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "dvp-server\\Controllers\\PersonasController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAtwF8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T20:33:24.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@dvp_server_HostAddress = http://localhost:5095
+
+GET {{dvp_server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
